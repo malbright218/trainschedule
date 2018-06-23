@@ -1,0 +1,47 @@
+body {
+    
+    font-weight: bolder;
+    margin-top: 25px;
+
+}
+
+.jumbotron {
+    
+    background-image: url('http://paperlief.com/images/universe-stars-background-wallpaper-2.jpg');
+    color: #fff;
+    border: solid 3px #dcdcc6;
+    font-family: 'Megrim', cursive;
+    letter-spacing: 2px;
+}
+
+.col-sm-12 {
+    
+    opacity: 0.8;
+}
+
+.panel-warning {
+    color:#000;
+}
+
+.panel {
+    background-color: #000;
+    color: #fff;
+    
+}
+
+td {
+    color: black;
+}
+
+.panel-heading {
+    background-color: black;
+}
+
+button#submitTrain {
+    
+    background-color: black;
+    outline: none;
+}
+
+/* ============================================= */
+
